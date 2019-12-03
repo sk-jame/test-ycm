@@ -1,0 +1,16 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+#build
+*.txt
+.build-*
+
+**/compile_flags.txt
+compile_commands.json
+# mcedit TAGS file for "go to declaration"
+TAGS
+
+# coverity directory
+idir
+idir/*
+
