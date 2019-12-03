@@ -8,7 +8,7 @@
   <Description/>
   <Dependencies/>
   <VirtualDirectory Name="src">
-	  <File Name="src/main.c"/>
+    <File Name="src/main.c"/>
   </VirtualDirectory>
   <Dependencies Name="Debug">
     <Project Name="test_lib"/>
@@ -69,7 +69,7 @@
         <SearchPaths/>
       </Completion>
     </Configuration>
-    <Configuration Name="Release" CompilerType="GCC ( 4.9 )" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+    <Configuration Name="Release" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
       <Compiler Options="-O2;-Wall" C_Options="-O2;-Wall" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
         <IncludePath Value="."/>
         <IncludePath Value="../test_lib/include.h"/>

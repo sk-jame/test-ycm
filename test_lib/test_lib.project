@@ -62,7 +62,7 @@
         <SearchPaths/>
       </Completion>
     </Configuration>
-    <Configuration Name="Release" CompilerType="GCC ( 4.9 )" DebuggerType="GNU gdb debugger" Type="Static Library" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+    <Configuration Name="Release" CompilerType="GCC" DebuggerType="GNU gdb debugger" Type="Static Library" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
       <Compiler Options="" C_Options="-O2;-std=c99;-fvisibility=hidden;-fPIC;-Wall;-Werror;-falign-loops=16;-fno-optimize-sibling-calls" Assembler="-O2;-std=c99;-fvisibility=hidden;-fPIC;-Wall;-Werror;-falign-loops=16;-fno-optimize-sibling-calls" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
         <IncludePath Value="."/>
         <IncludePath Value="./include"/>
