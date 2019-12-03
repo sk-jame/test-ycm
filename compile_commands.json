@@ -1,0 +1,13 @@
+[{
+  "file": "/home/devsrv/git/test-ycm/test_elf/src/main.c",
+  "directory": "/home/devsrv/git/test-ycm/test_elf",
+  "command": "clang  -c /home/devsrv/git/test-ycm/test_elf/src/main.c -o /home/devsrv/git/test-ycm/test_elf/src/main.c.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -DNDEBUG -I. -I. -I../test_lib/include/  -O2  -Wall"
+ }, {
+  "file": "/home/devsrv/git/test-ycm/test_lib/include/my_test_lib.h",
+  "directory": "/home/devsrv/git/test-ycm/test_lib",
+  "command": "clang  -c /home/devsrv/git/test-ycm/test_lib/include/my_test_lib.h -o /home/devsrv/git/test-ycm/test_lib/include/my_test_lib.h.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include"
+ }, {
+  "file": "/home/devsrv/git/test-ycm/test_lib/src/my_test_lib.c",
+  "directory": "/home/devsrv/git/test-ycm/test_lib",
+  "command": "clang  -c /home/devsrv/git/test-ycm/test_lib/src/my_test_lib.c -o /home/devsrv/git/test-ycm/test_lib/src/my_test_lib.c.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -I./include  -O2  -std=c99  -fvisibility=hidden  -fPIC  -Wall  -Werror  -falign-loops=16  -fno-optimize-sibling-calls"
+ }]

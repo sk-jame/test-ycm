@@ -6,7 +6,6 @@
 .build-*
 
 **/compile_flags.txt
-compile_commands.json
 # mcedit TAGS file for "go to declaration"
 TAGS
 
@@ -14,6 +13,4 @@ TAGS
 idir
 idir/*
 
-*.mk
 .codelite
-Makefile
